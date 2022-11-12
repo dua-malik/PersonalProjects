@@ -4,7 +4,7 @@ This repository contains personal projects I have worked on.
 <br>
 
 ## Table of Contents:
-1. [Exploring Possible Factors That Impact Median Listing Prices For Homes In America](https://github.com/dua-malik/HomeValueEDA)
+1. [Exploring Possible Factors That Impact Median Listing Prices For Homes In America](https://github.com/dua-malik/PersonalProjects/blob/main/README.md#exploring-possible-factors-that-impact-median-listing-prices-for-homes-in-america)
 <br><br>
 
 ## [Exploring Possible Factors That Impact Median Listing Prices For Homes In America](https://github.com/dua-malik/HomeValueEDA)
